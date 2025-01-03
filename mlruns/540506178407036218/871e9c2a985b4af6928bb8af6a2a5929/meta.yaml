@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/540506178407036218/871e9c2a985b4af6928bb8af6a2a5929/artifacts
+end_time: 1735934845035
+entry_point_name: ''
+experiment_id: '540506178407036218'
+lifecycle_stage: active
+run_id: 871e9c2a985b4af6928bb8af6a2a5929
+run_name: serious-horse-262
+run_uuid: 871e9c2a985b4af6928bb8af6a2a5929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735934843524
+status: 3
+tags: []
+user_id: spraj

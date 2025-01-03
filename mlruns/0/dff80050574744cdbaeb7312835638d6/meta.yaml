@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dff80050574744cdbaeb7312835638d6/artifacts
+end_time: 1735935475124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff80050574744cdbaeb7312835638d6
+run_name: valuable-pug-137
+run_uuid: dff80050574744cdbaeb7312835638d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735935474560
+status: 3
+tags: []
+user_id: spraj
