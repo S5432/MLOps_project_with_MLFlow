@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/3d5bad52659f4251b1f0725b444860c7/artifacts
+end_time: 1735941413357
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: 3d5bad52659f4251b1f0725b444860c7
+run_name: merciful-lark-535
+run_uuid: 3d5bad52659f4251b1f0725b444860c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941413272
+status: 3
+tags: []
+user_id: spraj

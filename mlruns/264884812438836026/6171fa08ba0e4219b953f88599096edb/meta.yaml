@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/6171fa08ba0e4219b953f88599096edb/artifacts
+end_time: 1735941413662
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: 6171fa08ba0e4219b953f88599096edb
+run_name: bright-whale-518
+run_uuid: 6171fa08ba0e4219b953f88599096edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941413575
+status: 3
+tags: []
+user_id: spraj

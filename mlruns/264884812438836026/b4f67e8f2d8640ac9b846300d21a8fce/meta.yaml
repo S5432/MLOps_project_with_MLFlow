@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/b4f67e8f2d8640ac9b846300d21a8fce/artifacts
+end_time: 1735941413047
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: b4f67e8f2d8640ac9b846300d21a8fce
+run_name: adventurous-carp-82
+run_uuid: b4f67e8f2d8640ac9b846300d21a8fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941412964
+status: 3
+tags: []
+user_id: spraj

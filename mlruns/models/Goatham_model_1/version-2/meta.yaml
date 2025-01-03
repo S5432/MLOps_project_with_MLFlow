@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735943129078
+current_stage: None
+description: ''
+last_updated_timestamp: 1735943129078
+name: Goatham_model_1
+run_id: 78d7e104524c44cbb606d7e456bafc52
+run_link: ''
+source: mlflow-artifacts:/168119139638904685/78d7e104524c44cbb606d7e456bafc52/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/168119139638904685/78d7e104524c44cbb606d7e456bafc52/artifacts/model
+user_id: null
+version: 2

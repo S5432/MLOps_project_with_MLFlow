@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/7fc6d85664fb4d968361c9d8897906ae/artifacts
+end_time: 1735941412952
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: 7fc6d85664fb4d968361c9d8897906ae
+run_name: awesome-gnu-185
+run_uuid: 7fc6d85664fb4d968361c9d8897906ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941412872
+status: 3
+tags: []
+user_id: spraj

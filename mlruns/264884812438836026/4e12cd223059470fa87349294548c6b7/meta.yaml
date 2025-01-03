@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/4e12cd223059470fa87349294548c6b7/artifacts
+end_time: 1735941413253
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: 4e12cd223059470fa87349294548c6b7
+run_name: stately-dog-773
+run_uuid: 4e12cd223059470fa87349294548c6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941413157
+status: 3
+tags: []
+user_id: spraj

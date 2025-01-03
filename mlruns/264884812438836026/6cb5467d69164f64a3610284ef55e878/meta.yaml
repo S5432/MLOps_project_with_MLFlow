@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs_Playlist/MLOPs_project_with_MLFlow/mlruns/264884812438836026/6cb5467d69164f64a3610284ef55e878/artifacts
+end_time: 1735941412856
+entry_point_name: ''
+experiment_id: '264884812438836026'
+lifecycle_stage: active
+run_id: 6cb5467d69164f64a3610284ef55e878
+run_name: unique-stork-228
+run_uuid: 6cb5467d69164f64a3610284ef55e878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735941412743
+status: 3
+tags: []
+user_id: spraj
